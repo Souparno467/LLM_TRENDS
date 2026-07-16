@@ -1,6 +1,6 @@
 # LLM Usage Trends — Exploratory Data Analysis (EDA)
 
-**Dataset:** `LLM_Usage_Trends_Dataset.xlsx` (sheet: `LLM_Usage_Data`)
+**Dataset:** - https://www.kaggle.com/datasets/souparnogoswami44/llm-trends
 **Rows × Columns:** 600 × 30
 **Type:** Synthetic / simulated dataset for EDA practice
 
@@ -213,10 +213,3 @@ Each stage ends with a short **Summary** cell — this mirrors how EDA is done i
 
 ---
 
-## 10. File Reference
-
-| File | Purpose |
-|---|---|
-| `LLM_Usage_Trends_Dataset.xlsx` | Source dataset (3 sheets: data, dictionary, notes) |
-| EDA notebook / snippets | Full 7-stage EDA workflow described in §5 |
-| `README.md` (this file) | Documentation: terms, methodology, target audience, how to interpret each section |
